@@ -1,0 +1,43 @@
+.follow{
+    position: absolute; top: 0; right: 0;
+}
+
+.edit{
+    border-radius: 1em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 1em;
+
+}
+.like{
+    border-radius: .5em;
+    margin-top: .5em;
+    margin-bottom: .5em;
+
+}
+
+.submit{
+    border-radius: 1em;
+    margin-top: .5em;
+    margin-bottom: .5em;
+}
+
+.form{
+    border-radius: 1em;
+}
+
+.auth{
+    position: absolute;
+    margin-top: 40%;
+    margin-left: 30%;
+
+}
+
+.link{
+    text-align: justify;
+    font: 2em sans-serif;
+}
+
+#signup{
+    margin-left: 3em;
+}
